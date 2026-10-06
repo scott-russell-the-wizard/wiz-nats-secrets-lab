@@ -1,0 +1,15 @@
+# Local environment & Wiz API credentials
+.env
+.venv/
+venv/
+__pycache__/
+
+# Local Wiz CLI binary and scan output artifacts
+bin/
+wizcli
+reports/
+*.sarif
+
+# OS & Editor files
+.DS_Store
+*.swp
