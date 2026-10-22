@@ -1,0 +1,20 @@
+{
+  "_comment": "Synthetic Okta OAuth 2.0 / OIDC Service App Private Key JWK Fixture (Context 1e) for Super Admin private_key_jwt authentication",
+  "client_id": "0oa8x9k2m1PqR7vWz5d7",
+  "issuer": "https://acme.okta.com",
+  "token_endpoint": "https://acme.okta.com/oauth2/v1/token",
+  "jwk": {
+    "kty": "RSA",
+    "alg": "RS256",
+    "use": "sig",
+    "kid": "okta-svc-superadmin-2026-01",
+    "n": "tYTvzmMSXJtXNlWOIywhaUjzvOyo1L2sd6cL3Ny2raGY2V2u41i92ktFoOacQbN0AMPvkkErcr-NF4Tr992cBn4GzVdC_jSR31rDPTG3GQNKMvPYvdNL6tUgYlPxehTW1ahUy8T_vg98_EgDpENksVsI3EmFMgnNbbRm_g_wbQSPZRvd_ySdIx-G7qPL25QXoDBFMRvcU0bOhXUa_IQVX0UhjPyrNZ18zOxbg4S-iJyl6bd1dVI8c21l92Y60GCYgW9jZdQKBSkT2vUWUNz-NNKlT7Aygk1XNF_oDybSWGamYZbhKe2inkH2L6levvfYKixswu3QdccAZ2gv3k1XzQ",
+    "e": "AQAB",
+    "d": "HNhjvVHsFJBQ8x70Z-1238LKjN60053Snu8KSQ4_72arIfurs5AiF2L3zSJoeV5ZlFeOphi6HVGIS9EBKJHsXfHABfiUek4DUlGbjgls9coai-9JJZ1Cxq4Yp9d8G7DdFPXbh8gl9d-DNpoBDiTxhueXCF6cjn-VSBYvebcxtzkKRZB9zltqywz0Pq83jDIG4Su_5Wk8WQdgliOgnJ2KCMyLHVppr3nC0ckVdny8UkWpT3-S_p8V41uTEDvUAB6C6vYBrt7moWDZdIUzqZ2sHOBvBt2EDBmiDSNIHsDi3RGdVFYhs-yZQdhM6rOP-0wiSCulU3ZRcv_tl0QrAo2T9w",
+    "p": "2p7rfWXG_0jO2Ff8u2mp0Dlcra1GIpDYf1F3XRMhgOg92xDKX9Y8C7D6gZLyLWg_qPW4kONxPX_FmxEuGlOD05-9k1VXsZhxjzoq_gRkpua2HpoOJ1zS5uokhj64KB7KItePP68a-FDkerUcdLDSvp8J_g_iMaaDmJjfna-1Ca8",
+    "q": "1I4TfETTZLCxeaMqUllee_nOXeFvvphw2cdZhYRBMfKlGbm46XTagkQAhShhCmjRBW3-nD9VYyItFenMaB5PkwHZOZs-eYdQaqxzBiyz-0KLfNt_x5UVmmpToyZhRxQHA5VZsaDRYe_SAK8IGRg7jXww4t35BuP51P3FotFn4UM",
+    "dp": "dyH8z8Ojkj-ZwBkKdxJYYEix8U6oFnP6Fj9NnWGsczObaYIX1evHotNZXzy1TfsuHaNxZTsb3ViAVUUia2QxRSQaSWxLMlMRJuyauvun4a99dOWcauTRZNYY-zK4ZdyJaD0xKZIBT2m9aATDse8dmJTP_CuppkbIFWLREHvMWq8",
+    "dq": "MO5wH-h8Pa7LfHQKdyCptqKgVk5ieh7_w7K3shvrIkN4rH5ryhqjft-GuyC7jjjo_XX_6hpOXt7sQCItcz6fFPmU90T80d9LrPL8G8zItivwjpK9TMXOTljx3hokxMcggjushU6_ROt_jba9h4FjnEOdwWxWOrbauaSeDchlQJ8",
+    "qi": "s4iMQ_3XcC_9AJMEDWXso2mtzVLezCnPUWLCxZ0jyNex3inVbR5Clf-0qyraVh1dYfUBKkMoU1sWlvr5RL6mtYl1uWikpbDzO-9rSE-uZDzzGj-HYs1IFAJLksAW-w2k_HjEkMwwKozvqgQoZi_qopedjIYKagrSn-8DozW0I7A"
+  }
+}
